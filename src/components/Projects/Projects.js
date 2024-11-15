@@ -1,3 +1,4 @@
+'use client'
 import React from 'react';
 //hello
 import { BlogCard, CardInfo, ExternalLinks, GridContainer, HeaderThree, Hr, Tag, TagList, TitleContent, UtilityList, Img } from './ProjectsStyles';

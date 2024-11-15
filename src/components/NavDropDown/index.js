@@ -1,3 +1,4 @@
+'use client'
 import React from 'react'
 import { AiFillPhone, AiOutlineMail } from 'react-icons/ai'
 import { FaLocationArrow } from "react-icons/fa"
@@ -12,7 +13,7 @@ const NavDropDown = (props) => (
       </DropDownIcon>
       <DropDownTextContainer>
         <DropDownItemTitle>Phone</DropDownItemTitle>
-        <DropDownItemDesc>Let's get together and have a chat?</DropDownItemDesc>
+        <DropDownItemDesc>Let us get together and have a chat?</DropDownItemDesc>
       </DropDownTextContainer>
     </DropDownItem>
     <DropDownItem href="#" target="_blank" rel="noreferrer">
